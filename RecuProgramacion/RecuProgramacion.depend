@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637024678 source:c:\users\nbgonza\desktop\recprogramacion\recuprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
